@@ -1,0 +1,49 @@
+{
+  "term": "Spring",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ]
+  ],
+  "legacy_uid": "bef8591a-f949-937e-2a32-5fb91118dfaa",
+  "instructors": {
+    "content": [
+      "9cfae9fe-39e4-63e9-6225-748a604c4da1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "fadd4873-c4a4-5202-88ac-b3753dd67fe4",
+    "website": "6-096-algorithms-for-computational-biology-spring-2005"
+  },
+  "course_title": "Algorithms for Computational Biology",
+  "course_description": "This course is offered to undergraduates and addresses several algorithmic challenges in computational biology. The principles of algorithmic design for biological datasets are studied and existing algorithms analyzed for application to real datasets. Topics covered include: biological sequence analysis, gene identification, regulatory motif discovery, genome assembly, genome duplication and rearrangements, evolutionary theory, clustering algorithms, and scale-free networks.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.096",
+  "course_image_thumbnail": {
+    "content": "e49810da-c977-c42d-966c-225a279ed89a",
+    "website": "6-096-algorithms-for-computational-biology-spring-2005"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Programming Assignments",
+    "Problem Sets"
+  ],
+  "site_uid": "790091a7-a8f5-4fe1-a760-d8eb6a36017d",
+  "site_short_id": "6.096-spring-2005",
+  "title": "Course Metadata"
+}
